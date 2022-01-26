@@ -1,4 +1,4 @@
-# How to install Telegram Bot with laravel
+## How to install Telegram Bot with laravel 8
 
 1-composer require guzzlehttp/psr7 1.*
 2-composer require irazasyed/telegram-bot-sdk
